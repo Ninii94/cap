@@ -1,0 +1,13 @@
+{
+  "name": "sap-cap-ecommerce",
+  "version": "1.0.0",
+  "dependencies": {
+    "@sap/cds": "^7.x",
+    "@sap/cds-dk": "^7.x",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "cds run",
+    "watch": "cds watch"
+  }
+}

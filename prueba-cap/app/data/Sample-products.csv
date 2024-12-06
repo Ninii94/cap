@@ -1,0 +1,4 @@
+ID,name,description,price,stock,category_ID
+1,Laptop,Laptop de alta performance,1200.50,50,1
+2,Smartphone,Smartphone último modelo,800.75,30,1
+3,Coffee,Café especial,15.99,100,2
